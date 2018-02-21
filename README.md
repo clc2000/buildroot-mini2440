@@ -1,0 +1,1 @@
+# buildroot-mini2440
